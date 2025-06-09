@@ -1,20 +1,20 @@
 # Githubのリポジトリ集です
 私PYUが作ったりフォークしたりしたソースコード集です。
 - Github.ioページ<br>
-https://pyu224.github.io/
+<a href="https://pyu224.github.io/">https://pyu224.github.io/</a>
 - Githubページ<br>
-https://github.com/PYU224/pyu224.github.io
+<a href="https://github.com/PYU224/pyu224.github.io">https://github.com/PYU224/pyu224.github.io</a>
 
 ## リポジトリ集
 - Misskeyサーバー「ぬくもりすきー」のルールとマナー<br>
-https://github.com/PYU224/misskey-data
+<a href="https://github.com/PYU224/misskey-data">https://github.com/PYU224/misskey-data</a>
 - peertube-plugin-monero-miner（XMRをマイニングできるPeertubeのプラグイン）<br>
-https://github.com/PYU224/peertube-plugin-monero-miner
+<a href="https://github.com/PYU224/peertube-plugin-monero-miner">https://github.com/PYU224/peertube-plugin-monero-miner</a>
 - Yaju-Tube（Peertubeの非公式の動画の再生プレーヤー）<br>
-https://github.com/PYU224/Yaju-Tube
+<a href="https://github.com/PYU224/Yaju-Tube">https://github.com/PYU224/Yaju-Tube</a>
 
 ## リンク
 - Githubアカウント<br>
-https://github.com/PYU224
+<a href="https://github.com/PYU224">https://github.com/PYU224</a>
 - リンク集<br>
-https://linksta.cc/@pyu224
+<a href="https://linksta.cc/@pyu224">https://linksta.cc/@pyu224</a>
