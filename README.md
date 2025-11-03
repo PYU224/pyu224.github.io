@@ -13,7 +13,7 @@
 - PeerTube Admin Message Plugin（動画・配信ページの説明欄下にインスタンス管理者からのメッセージを表示するプラグイン）<br>
 <a href="https://github.com/PYU224/peertube-plugin-admin-message">https://github.com/PYU224/peertube-plugin-admin-message</a>
 - Yaju-Tube（Peertubeの非公式の動画の再生プレーヤー）<br>
-<a href="https://github.com/PYU224/Yaju-Tube">https://github.com/PYU224/Yaju-Tube">https://github.com/PYU224/Yaju-Tube</a>
+<a href="https://github.com/PYU224/Yaju-Tube">https://github.com/PYU224/Yaju-Tube</a>
 - Web Code Editor（シンプルで使いやすいブラウザベースのコードエディタ）<br>
 <a href="https://github.com/PYU224/web-editor">https://github.com/PYU224/web-editor</a>
 
