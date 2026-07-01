@@ -5,7 +5,7 @@
 - Githubページ<br>
 <a href="https://github.com/PYU224/pyu224.github.io">https://github.com/PYU224/pyu224.github.io</a>
 - 各種サービスの死活監視ページ<br>
-<a href="https://github.com/PYU224/server-status">https://github.com/PYU224/server-status</a>
+<a href="https://pyu224.github.io/server-status">https://pyu224.github.io/server-status</a>
 
 ## リポジトリ集
 - Misskeyサーバー「ぬくもりすきー」のルールとマナー<br>
