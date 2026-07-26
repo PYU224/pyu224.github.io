@@ -1,28 +1,33 @@
 # Githubのリポジトリ集です
 私PYUが作ったりフォークしたりしたソースコード集です。
 - Github.ioページ<br>
-<a href="https://pyu224.github.io/">https://pyu224.github.io/</a>
+https://pyu224.github.io/
 - Githubページ<br>
-<a href="https://github.com/PYU224/pyu224.github.io">https://github.com/PYU224/pyu224.github.io</a>
+https://github.com/PYU224/pyu224.github.io
 - 各種サービスの死活監視ページ<br>
-<a href="https://pyu224.github.io/server-status">https://pyu224.github.io/server-status</a>
+https://pyu224.github.io/server-status
 
 ## リポジトリ集
 - Misskeyサーバー「ぬくもりすきー」のルールとマナー<br>
-<a href="https://github.com/PYU224/misskey-data">https://github.com/PYU224/misskey-data</a>
+https://github.com/PYU224/misskey-data
 - Peertube Monero Miner（XMRをマイニングできるPeertubeのプラグイン）<br>
-<a href="https://github.com/PYU224/peertube-plugin-monero-miner">https://github.com/PYU224/peertube-plugin-monero-miner</a>
+https://github.com/PYU224/peertube-plugin-monero-miner
 - PeerTube Admin Message Plugin（動画・配信ページの説明欄下にインスタンス管理者からのメッセージを表示するプラグイン）<br>
-<a href="https://github.com/PYU224/peertube-plugin-admin-message">https://github.com/PYU224/peertube-plugin-admin-message</a>
+https://github.com/PYU224/peertube-plugin-admin-message
 - Yaju-Tube（Peertubeの非公式の動画の再生プレーヤー）<br>
-<a href="https://github.com/PYU224/Yaju-Tube">https://github.com/PYU224/Yaju-Tube</a>
+https://github.com/PYU224/Yaju-Tube
 - Web Code Editor（シンプルで使いやすいブラウザベースのコードエディタ）<br>
-<a href="https://github.com/PYU224/web-editor">https://github.com/PYU224/web-editor</a>
+https://github.com/PYU224/web-editor
 - これＭＤ（マジ）？（Wifiなしでファイルのやり取り可能なマークダウンエディタ）<br>
-<a href="https://github.com/PYU224/koremd">https://github.com/PYU224/koremd</a>
+https://github.com/PYU224/koremd
+- TagDB-Updater（NovelAIやStable Diffusion等で使えるタグ一覧とタグマネージャー）<br>
+https://github.com/PYU224/tagdb-updater<br>
+https://pyu224.github.io/tagdb-updater/
 
 ## リンク
+- ブログ<br>
+https://33-4.me/blog/
 - Githubアカウント<br>
-<a href="https://github.com/PYU224">https://github.com/PYU224</a>
+https://github.com/PYU224
 - リンク集<br>
-<a href="https://lit.link/pyu224">https://lit.link/pyu224</a>
+https://lit.link/pyu224
