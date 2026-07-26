@@ -21,7 +21,7 @@
 - これＭＤ（マジ）？（Wifiなしでファイルのやり取り可能なマークダウンエディタ）<br>
 <a href="https://github.com/PYU224/koremd">https://github.com/PYU224/koremd</a>
 - TagDB-Updater（NovelAIやStable Diffusion等で使えるタグ一覧とタグマネージャー）<br>
-<a href="https://github.com/PYU224/tagdb-updater<br>">https://github.com/PYU224/tagdb-updater<br></a>
+<a href="https://github.com/PYU224/tagdb-updater">https://github.com/PYU224/tagdb-updater<br></a>
 <a href="https://pyu224.github.io/tagdb-updater/">https://pyu224.github.io/tagdb-updater/</a>
 
 ## リンク
