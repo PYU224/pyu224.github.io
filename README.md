@@ -1,33 +1,33 @@
 # Githubのリポジトリ集です
 私PYUが作ったりフォークしたりしたソースコード集です。
 - Github.ioページ<br>
-https://pyu224.github.io/
+<a href="https://pyu224.github.io/">https://pyu224.github.io/</a>
 - Githubページ<br>
-https://github.com/PYU224/pyu224.github.io
+<a href="https://github.com/PYU224/pyu224.github.io">https://github.com/PYU224/pyu224.github.io</a>
 - 各種サービスの死活監視ページ<br>
-https://pyu224.github.io/server-status
+<a href="https://pyu224.github.io/server-status">https://pyu224.github.io/server-status</a>
 
 ## リポジトリ集
 - Misskeyサーバー「ぬくもりすきー」のルールとマナー<br>
-https://github.com/PYU224/misskey-data
+<a href="https://github.com/PYU224/misskey-data">https://github.com/PYU224/misskey-data</a>
 - Peertube Monero Miner（XMRをマイニングできるPeertubeのプラグイン）<br>
-https://github.com/PYU224/peertube-plugin-monero-miner
+<a href="https://github.com/PYU224/peertube-plugin-monero-miner">https://github.com/PYU224/peertube-plugin-monero-miner</a>
 - PeerTube Admin Message Plugin（動画・配信ページの説明欄下にインスタンス管理者からのメッセージを表示するプラグイン）<br>
-https://github.com/PYU224/peertube-plugin-admin-message
+<a href="https://github.com/PYU224/peertube-plugin-admin-message">https://github.com/PYU224/peertube-plugin-admin-message</a>
 - Yaju-Tube（Peertubeの非公式の動画の再生プレーヤー）<br>
-https://github.com/PYU224/Yaju-Tube
+<a href="https://github.com/PYU224/Yaju-Tube">https://github.com/PYU224/Yaju-Tube</a>
 - Web Code Editor（シンプルで使いやすいブラウザベースのコードエディタ）<br>
-https://github.com/PYU224/web-editor
+<a href="https://github.com/PYU224/web-editor">https://github.com/PYU224/web-editor</a>
 - これＭＤ（マジ）？（Wifiなしでファイルのやり取り可能なマークダウンエディタ）<br>
-https://github.com/PYU224/koremd
-- TagDB-Updater（NovelAIやStable Diffusion等で使えるタグ一覧とタグマネージャー）<br>
-https://github.com/PYU224/tagdb-updater<br>
-https://pyu224.github.io/tagdb-updater/
+<a href="https://github.com/PYU224/koremd">https://github.com/PYU224/koremd</a>
+- TagDB-Updater（NovelAIやStable Diffusion等で使えるタグ一覧とタグマネージャー）<br>"
+<a href="https://github.com/PYU224/tagdb-updater<br>">https://github.com/PYU224/tagdb-updater<br></a>
+<a href="https://pyu224.github.io/tagdb-updater/">https://pyu224.github.io/tagdb-updater/</a>
 
 ## リンク
 - ブログ<br>
-https://33-4.me/blog/
+<a href="https://33-4.me/blog/">https://33-4.me/blog/</a>
 - Githubアカウント<br>
-https://github.com/PYU224
+<a href="https://github.com/PYU224">https://github.com/PYU224</a>
 - リンク集<br>
 https://lit.link/pyu224
